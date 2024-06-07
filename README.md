@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Universitas Multimedia Nusantara**
 
-- 🌱 I’m currently learning **Web Development (PHP and Laravel) and Quality Assurance tools**
+- 🌱 I’m currently learning **Web Development (PHP, MVC, and Laravel) and Quality Assurance tools**
 
 - 📫 How to reach me **gladystana17@gmail.com**
 
