@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Universitas Multimedia Nusantara** in **Information Systems** major
 
-- 🌱 I’m currently learning **Data Analysis tools (Power BI, Looker Studio, Python, SQL)**
+- 🌱 I’m currently learning **Data Analysis tools (Power BI, Looker Studio, Python, SQL)** and **MongoDB**
 
 - 📫 How to reach me **gladystana17@gmail.com**
 
