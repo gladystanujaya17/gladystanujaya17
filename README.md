@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gladys Tanujaya</h1>
-<h3 align="center">Third year Information Systems student</h3>
+<h3 align="center">Final year Information Systems student</h3>
 
-- 🔭 I’m currently studying on **Universitas Multimedia Nusantara**
+- 🔭 I’m currently studying on **Universitas Multimedia Nusantara** in **Information Systems** major
 
-- 🌱 I’m currently learning **Web Development (PHP, MVC, and Laravel), Quality Assurance, and Data Analysis tools**
+- 🌱 I’m currently learning **Data Analysis tools (Power BI, Looker Studio, Python, SQL)**
 
 - 📫 How to reach me **gladystana17@gmail.com**
 
