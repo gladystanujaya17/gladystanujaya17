@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gladystana17@gmail.com**
 
-- ⚡ Fun fact **I love to read novels**
+- ⚡ Fun fact **I love to read novels, manhwas, and manhuas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
